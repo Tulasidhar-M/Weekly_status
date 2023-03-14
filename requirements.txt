@@ -1,0 +1,10 @@
+asgiref==3.6.0
+Django==2.1.15
+django-cors-headers==3.14.0
+django-pyodbc-azure==2.1.0.0
+django-pyodbc-azure-2019==2.1.0.0
+djangorestframework==3.14.0
+pyodbc==4.0.35
+pytz==2022.7.1
+sqlparse==0.4.3
+tzdata==2022.7
